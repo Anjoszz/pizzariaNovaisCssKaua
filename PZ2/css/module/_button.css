@@ -1,0 +1,26 @@
+button {
+    width: 100px;
+    height: 50px;
+    background-color: var(--cor-preto);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    color: var(--cor-branca);
+    font-family: var(--font-noto-sans);
+    margin-top: 24px;
+    cursor: pointer;
+}
+.buttoncards {
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    color: var(--cor-branca);
+    font-family: var(--font-noto-sans);
+    margin-top: 24px;
+    cursor: pointer;
+}
